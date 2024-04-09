@@ -4,4 +4,4 @@ Shaker creates a 3D animation of buildings which are exposed to seismic waves. T
 
 If the text you read above is nonsense, please watch the video below (^人^)
 
-[![Shake me Shake me](https://i9.ytimg.com/vi/8Al7Gz57yFw/mq3.jpg?sqp=COCamZQG&rs=AOn4CLCbuNjGEYbJShc9SLL9iRorwXpKVw)](https://youtu.be/8Al7Gz57yFw)
+[Shake The Building!](https://youtu.be/8Al7Gz57yFw)
